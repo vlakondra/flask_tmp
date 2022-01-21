@@ -12,3 +12,7 @@ https://stackoverflow.com/questions/31330905/uwsgi-options-wsgi-file-and-module-
 ----------------
 Имеет смысл когда все наладится установить uwsgitop 
 ----------------
+
+Fetch OR Clone??
+https://stackoverflow.com/questions/5377960/git-whats-the-best-practice-to-git-clone-into-an-existing-folder
+
