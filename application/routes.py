@@ -6,7 +6,7 @@ from application import app
 @app.route("/")
 @app.route("/index")
 def index():
-    return "<h1 style='width:100px; margin:0 auto'>hello привет!!!!</h1>"
+    return "<h1 style='width:400px; margin:0 auto'>hello привет!!!!</h1>"
 
 
 @app.route("/test")

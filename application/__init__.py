@@ -5,6 +5,10 @@ def create_app():
     app = Flask(__name__)  # app - экз-р класса Flask, к-й становится членом пакета app
     print("__name__: ", __name__, app.instance_path, "<->", app.static_url_path)
 
+    @app.route("/hello")
+    def hello():
+        return "Для проверки"
+
     return app
 
 
