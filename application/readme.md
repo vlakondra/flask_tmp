@@ -14,5 +14,16 @@ https://stackoverflow.com/questions/31330905/uwsgi-options-wsgi-file-and-module-
 ----------------
 
 Fetch OR Clone??
+Пока воспользовался этим:
+
+git init
+git remote add origin [my-repo]
+git fetch
+git checkout origin/master -ft
+и для отслеживания изменений
+git pull origin master
+Вроде на этом можно продолжить эксперименты с uwsgi
+
+
 https://stackoverflow.com/questions/5377960/git-whats-the-best-practice-to-git-clone-into-an-existing-folder
 
