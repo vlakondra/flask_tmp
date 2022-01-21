@@ -23,6 +23,7 @@ git checkout origin/master -ft
 и для отслеживания изменений
 git pull origin master
 Вроде на этом можно продолжить эксперименты с uwsgi
+но все не просто
 
 
 https://stackoverflow.com/questions/5377960/git-whats-the-best-practice-to-git-clone-into-an-existing-folder
