@@ -21,7 +21,7 @@ git remote add origin [my-repo]
 git fetch
 git checkout origin/master -ft
 и для отслеживания изменений
-git pull origin master
+git pull origin master !!!
 Вроде на этом можно продолжить эксперименты с uwsgi
 но все не просто
 git mergetool  (!!!)

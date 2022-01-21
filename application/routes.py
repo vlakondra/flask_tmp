@@ -6,9 +6,9 @@ from application import app
 @app.route("/")
 @app.route("/index")
 def index():
-    return "hello привет!!!!"
+    return "<h1 style='width:100px; margin:0 auto'>hello привет!!!!</h1>"
 
 
 @app.route("/test")
 def tst():
-    return "!!! hello привет!!!!"
+    return "<h2 style='color:blue'>!!! hello привет!!!!</h2>"
